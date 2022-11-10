@@ -1,0 +1,22 @@
+/* fuente */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: "roboto", sans-serif;
+     overflow-x: hidden;
+}
+#menu{
+    background-color: rgb(82, 100, 255) !important;
+}
+
+#menu a, button{
+    font-size: 18px !important;
+    font-size: 700;
+    
+}
+
+ 
+
+.logo{
+    width: 100px;
+}
