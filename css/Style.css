@@ -230,3 +230,14 @@ footer{
     text-align: center;
 }
 
+
+/* simulador */
+#simulador .titulo{
+    width: 100%;  
+    text-align: center;
+    color: #000;
+}
+
+#simulador{
+    margin-top: 150px;
+}
